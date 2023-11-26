@@ -1,0 +1,2 @@
+1.	26-11-2023	001	Baju	100	Kemeja
+2.	26-11-2023	002	Celana	10	Pendek
